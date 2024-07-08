@@ -6,7 +6,7 @@
 
 **Project Goals:**
 
-1. **Customer Performance Report:** Created a detailed [report]([Customer_Net_Sales_Performance_Report.pdf](https://github.com/Santosh5924/Excel-Sales-Analytics/blob/main/Customer_Net_Sales_Performance_Report.pdf)) to assess customer performance.
+1. **Customer Performance Report:** Created a detailed [report](https://github.com/Santosh5924/Excel-Sales-Analytics/blob/main/Customer_Net_Sales_Performance_Report.pdf) to assess customer performance.
 2. **Market Performance Comparison:** Conducted a thorough analysis comparing [market performance](https://github.com/Santosh5924/Excel-Sales-Analytics/blob/main/Market_Performence_vs_Target_Report.pdf) against sales targets.
 
 **Sales Analytics Purpose:** Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes.
